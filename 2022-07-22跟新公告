@@ -1,0 +1,9 @@
+版本1.0
+1：字典内容：abcdefghijklmnopqrstuvwxyz0123456789ABCDEFGHIJKLMNOPQRSTUVWXYZ.*/-+ <>?:"{}_)(&^%$#@!`=[];\'\\,，。、|》《？：“~·
+2：中断保存，如遇到需要暂停运行时候，可ctrl+c停止程序，会自动保存文件为:exit_save.log
+3:已计算完毕字典存储，存储了所有已运行并存储完毕的内容，存储文件为：cs.txt
+4:已存在内重复计算记录，记录文件为xiangtong.log，当有些情况下如在windows下使用cmd窗口运行程序，若直接关闭cmd窗口，将会导致exit_save.log文件不能进行记录到结果，下次运行时就会出现相同值数据。
+5：错误异常记录：error.log 如遇到此文件，或其他问题，请留言反馈，此项目将持续跟新
+6：2022-07-22
+7：联系邮箱 tranthientien53266@gmail.com 
+创作人：风川白日
