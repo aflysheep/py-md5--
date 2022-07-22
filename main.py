@@ -1,4 +1,4 @@
-#redis本地爆破
+
 #使用py逐一生城md5值
 #!/usr/bin/python
 # -*- coding:utf-8 -*-
